@@ -1,3 +1,5 @@
+
+
 {
   "name": "_codys-testing-module",
   "title": "_Cody's Testing Module",
@@ -18,11 +20,11 @@
   "manifest": "This is auto replaced",
   "download": "This is auto replaced",
   "related": {
-   "required": [
-     {
-    "id": "dlopen",
-    },
-    {
+    "required": [
+      {
+        "id": "dlopen"
+      },
+      {
         "id": "vueport",
         "type": "module",
         "compatibility": {
@@ -30,17 +32,17 @@
           "verified": "1.1",
           "maximum": "1.1"
         }
-    },
-    {
-      "id": "warpgate",
-      "type": "module",
-      "manifest": "https://github.com/trioderegion/warpgate/blob/master/module.json",
-      "compatibility": {
+      },
+      {
+        "id": "warpgate",
+        "type": "module",
+        "manifest": "https://github.com/trioderegion/warpgate/blob/master/module.json",
+        "compatibility": {
           "minimum": "1.11.0",
           "verified": "1.13.6",
           "maximum": "1.13.6"
         }
-    }
+      }
     ]
   }
 }
