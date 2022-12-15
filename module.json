@@ -35,16 +35,12 @@
           "verified": "1.1",
           "maximum": "1.1"
         }
-      },
-      {
+      }
+    ],
+    "recommendations": [
+       {
         "id": "warpgate",
-        "type": "module",
-        "manifest": "https://github.com/trioderegion/warpgate/blob/master/module.json",
-        "compatibility": {
-          "minimum": "1.11.0",
-          "verified": "1.13.6",
-          "maximum": "1.13.6"
-        }
+        "type": "module"
       }
     ]
   }
