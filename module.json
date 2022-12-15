@@ -40,7 +40,8 @@
     "recommendations": [
        {
         "id": "warpgate",
-        "type": "module"
+        "type": "module",
+        "reason": "Provides a nicer UX around spawning tokens onto a scene"
       }
     ]
   }
