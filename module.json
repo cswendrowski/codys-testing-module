@@ -38,7 +38,7 @@
         }
       }
     ],
-    "recommendations": [
+    "recommends": [
        {
         "id": "warpgate",
         "type": "module",
