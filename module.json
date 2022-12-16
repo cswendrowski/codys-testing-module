@@ -22,6 +22,7 @@
   "url": "This is auto replaced",
   "manifest": "This is auto replaced",
   "download": "This is auto replaced",
+  "persistentStorage": true,
   "relationships": {
     "requires": [
       {
