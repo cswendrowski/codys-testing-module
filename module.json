@@ -43,6 +43,11 @@
         "id": "warpgate",
         "type": "module",
         "reason": "Provides a nicer UX around spawning tokens onto a scene"
+      },
+      {
+        "id": "house-divided",
+        "type": "module",
+        "reason": "I helped make this and the writing is excellent"
       }
     ]
   }
